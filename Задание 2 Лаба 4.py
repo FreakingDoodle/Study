@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
 ## O(n^3)
 list = [1, 2, 3]
-n = len(list) # n = the length of the list here 3.
+n = len(list)
 for i in range(0, n): 
    for j in range (0, n): 
        for g in range(0,n):
